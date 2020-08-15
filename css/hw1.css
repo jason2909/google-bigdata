@@ -1,0 +1,152 @@
+
+h1{
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 1000%
+  text-transform: uppercase;
+  height: 70px;
+
+  
+}
+
+a: focus{
+	
+	background: #B3B3B3;
+    color: #0006CC;
+}
+a: hover{
+	
+	background: #B3B3B3;
+	color: #0006CC;
+}
+
+
+body {
+ 
+ 
+background-image: url('../images/big-data.jpg');
+     background-attachment: fixed;
+   background-repeat: no-repeat;  
+   background-position: center;
+   background-size: cover;
+   margin: 5%;
+     
+}
+
+
+
+header{
+   font-style: : #000000;
+  font-size: 700%
+  text-transform: uppercase;
+  text-align: center;
+  margin: 2%;
+  
+
+}
+
+
+
+h2{
+
+color:#08088A;
+text-transform: uppercase;
+
+}
+
+
+
+section{
+
+
+
+}
+
+nav{
+transition: .5s background-color;
+color:#000000;
+font-size: 350%
+
+}
+
+a:link
+{
+text-decoration:none;
+
+}
+
+
+
+
+
+
+img{
+
+height: 300px;
+width: 400px;
+
+float: left;
+display: inline-block;
+ margin: 1%;
+ margin-left: 2%;
+clear: both;
+
+}
+
+
+#main-container{
+
+
+}
+
+
+table{
+
+color: #FFFFFF;
+text-align:center;
+margin: -3%;
+ padding: 110px;
+
+
+}
+
+td{
+
+border: solid 1px black;
+
+}
+
+
+
+			
+th{
+color: #FFFFFF;
+
+}
+marquee{
+
+color: #FFFFFF;
+font-size: 500%
+
+}
+
+section{
+
+color: #FFFFFF;
+font-size: 300%
+
+}
+
+
+h2{
+
+color: #FFFFFF;
+font-size: 100%
+
+}
+
+
+iframe{
+text-align: left;
+
+}
